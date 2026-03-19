@@ -1,4 +1,3 @@
-# my-stego-project
 # My Stego Project
 
 ## 📌 Description
